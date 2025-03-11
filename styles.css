@@ -158,6 +158,19 @@ body {
     }
 }
 
+figcaption {
+    font-size: 14px;
+    /* Slightly smaller */
+    font-weight: bold;
+    /* Makes it stand out */
+    color: var(--text-secondary);
+    /* Keeps it readable */
+    margin-top: -25px;
+    /* Adds a little spacing */
+    text-align: center;
+    /* Keeps it aligned with media */
+}
+
 /* Main Content */
 .container {
     width: 100%;
